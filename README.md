@@ -18,7 +18,7 @@ An interactive Retrieval-Augmented Generation (RAG) chatbot for querying PDF doc
 🏗️ **Setup & Installation**
 1. Clone the Repository
 ```
-git clone https://github.com/yourusername/rag-pdf-chatbot.git
+git clone https://github.com/Shiv1909/rag-pdf-chatbot.git
 cd rag-pdf-chatbot
 ```
 
